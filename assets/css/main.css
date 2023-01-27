@@ -2975,10 +2975,10 @@ input, select, textarea {
 	}
 
 	#header {
-		background: #6382a0;
+		background: #0A558C;
 		box-shadow: 0 0 2px 0 rgba(0, 0, 0, 0.125);
 		color: #dfdfe4;
-		height: 4.5em;
+		height: fit-content;
 		left: 0;
 		line-height: 4.5em;
 		position: fixed;
@@ -2989,6 +2989,7 @@ input, select, textarea {
 
 		#header .container {
 			position: relative;
+			margin-bottom: -1rem;
 		}
 
 		#header .icon:before {
@@ -3039,7 +3040,7 @@ input, select, textarea {
 				}
 
 					#header nav > ul > li > a {
-						color: #ffffff;
+						color: #FFFFFF;
 						display: block;
 						font-family: "Montserrat", Helvetica, sans-serif;
 						font-weight: 700;
@@ -3055,11 +3056,11 @@ input, select, textarea {
 						}
 
 					#header nav > ul > li.active {
-						background-color: rgba(0, 0, 0, 0.075);
+						background-color: rgba(4, 215, 248, 0.075);
 					}
 
 					#header nav > ul > li.current {
-						background-color: rgba(0, 0, 0, 0.25);
+						background-color: rgba(8, 202, 246, 0.25);
 					}
 
 					#header nav > ul > li > ul {
@@ -3071,7 +3072,7 @@ input, select, textarea {
 					}
 
 	.dropotron {
-		background: #6382a0;
+		background: #2680C2;
 		box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.075);
 		color: #dfdfe4;
 		list-style: none;
@@ -3129,8 +3130,8 @@ input, select, textarea {
 
 	#banner {
 		padding: 9em 0 7em 0 ;
-		background-color: #423e3a;
-		background-image: url("../../images/banner.jpg");
+		background-color: #0A558C;;
+		background-image: url("../../images/GFP_Clinic_Front_20210615.jpg");
 		background-position: center center;
 		background-repeat: no-repeat;
 		background-size: cover;
@@ -3139,10 +3140,19 @@ input, select, textarea {
 
 		#banner h1, #banner h2, #banner h3, #banner h4, #banner h5, #banner h6, #banner strong, #banner b {
 			color: #ffffff;
+			background-color: #0A558C;
+			opacity: .75;
+			border-radius: 8px;
+			padding: 8px;
+			width: fit-content;
 		}
 
 		#banner header p {
 			color: #ffffff;
+			background-color: #0A558C;
+			opacity: .75;
+			border-radius: 8px;
+			padding: 5px;
 		}
 
 		#banner input[type="submit"],
