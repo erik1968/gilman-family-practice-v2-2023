@@ -3161,6 +3161,7 @@ input, select, textarea {
 		#banner .button {
 			border-color: #ffffff;
 			color: #ffffff !important;
+			background-color: #0A558C;
 		}
 
 			#banner input[type="submit"]:hover,
