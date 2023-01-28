@@ -2978,7 +2978,7 @@ input, select, textarea {
 		background: #6382a0;
 		box-shadow: 0 0 2px 0 rgba(0, 0, 0, 0.125);
 		color: #dfdfe4;
-		height: fit-content;
+		height: 5.5em;
 		left: 0;
 		line-height: 4.5em;
 		position: fixed;
@@ -2989,7 +2989,10 @@ input, select, textarea {
 
 		#header .container {
 			position: relative;
-			margin-bottom: -1rem;
+		}
+
+		#header .header-container-logo {
+			max-height: 100px;
 		}
 
 		#header .icon:before {
@@ -3227,6 +3230,9 @@ input, select, textarea {
 				font-size: 11pt;
 			}
 
+			#header .header-container-logo {
+				max-height: 80px;
+
 	}
 
 /* Large */
@@ -3275,7 +3281,7 @@ input, select, textarea {
 				line-height: 3.5em;
 			}
 			#header .container .header-container-logo {
-				max-height: 50px !important;
+				max-height: 53px !important;
 				
 			}
 				#header h1 {
