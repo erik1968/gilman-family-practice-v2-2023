@@ -3141,7 +3141,7 @@ input, select, textarea {
 		#banner h1, #banner h2, #banner h3, #banner h4, #banner h5, #banner h6, #banner strong, #banner b {
 			color: #ffffff;
 			background-color: #0A558C;
-			opacity: .85;
+			opacity: .75;
 			border-radius: 8px;
 			padding: 8px;
 			width: fit-content;
@@ -3150,7 +3150,7 @@ input, select, textarea {
 		#banner header p {
 			color: #ffffff;
 			background-color: #0A558C;
-			opacity: .85;
+			opacity: .75;
 			border-radius: 8px;
 			padding: 5px;
 			width: 60%;
