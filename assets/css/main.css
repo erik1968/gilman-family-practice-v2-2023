@@ -2975,7 +2975,7 @@ input, select, textarea {
 	}
 
 	#header {
-		background: #0A558C;
+		background: #6382a0;
 		box-shadow: 0 0 2px 0 rgba(0, 0, 0, 0.125);
 		color: #dfdfe4;
 		height: fit-content;
@@ -3130,7 +3130,7 @@ input, select, textarea {
 
 	#banner {
 		padding: 9em 0 7em 0 ;
-		background-color: #0A558C;;
+		background-color: #6382a0;
 		background-image: url("../../images/GFP_Clinic_Front_20210615.jpg");
 		background-position: center center;
 		background-repeat: no-repeat;
@@ -3140,7 +3140,7 @@ input, select, textarea {
 
 		#banner h1, #banner h2, #banner h3, #banner h4, #banner h5, #banner h6, #banner strong, #banner b {
 			color: #ffffff;
-			background-color: #0A558C;
+			background-color: #6382a0;
 			opacity: .75;
 			border-radius: 8px;
 			padding: 8px;
@@ -3151,7 +3151,7 @@ input, select, textarea {
 
 		#banner header p {
 			color: #ffffff;
-			background-color: #0A558C;
+			background-color: #6382a0;
 			opacity: .75;
 			border-radius: 8px;
 			padding: 5px;
@@ -3165,7 +3165,7 @@ input, select, textarea {
 			border-color: #ffffff;
 			border-radius: 8px !important;
 			color: #ffffff !important;
-			background-color: #0A558C;
+			background-color: #6382a0;
 		}
 
 			#banner input[type="submit"]:hover,
