@@ -3145,6 +3145,8 @@ input, select, textarea {
 			border-radius: 8px;
 			padding: 8px;
 			width: fit-content;
+			margin: 75px auto;
+			margin-bottom: 50px;
 		}
 
 		#banner header p {
@@ -3153,7 +3155,7 @@ input, select, textarea {
 			opacity: .75;
 			border-radius: 8px;
 			padding: 5px;
-			width: 60%;
+			margin: 50px auto;
 		}
 
 		#banner input[type="submit"],
@@ -3272,7 +3274,10 @@ input, select, textarea {
 				height: 3.5em;
 				line-height: 3.5em;
 			}
-
+			#header .container .header-container-logo {
+				max-height: 80px !important;
+				
+			}
 				#header h1 {
 					font-size: 1em;
 				}
