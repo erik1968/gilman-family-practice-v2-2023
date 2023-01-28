@@ -2894,7 +2894,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style4 {
-			background-color: #5a7894;
+			background-color: #7bb9ce;
 			color: #dfdfe4;
 		}
 
@@ -3153,7 +3153,8 @@ input, select, textarea {
 			opacity: .85;
 			border-radius: 8px;
 			padding: 5px;
-			width: 60%;
+			width: 0%;
+
 		}
 
 		#banner input[type="submit"],
