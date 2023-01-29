@@ -3155,7 +3155,7 @@ input, select, textarea {
 		#banner .banner-logo {
 			display: block;
 			margin: auto;
-			max-width: 300px !important;
+			max-width: 250px !important;
 			opacity: 80%;
 			padding-bottom: 50px;
 		}
