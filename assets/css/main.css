@@ -3152,6 +3152,14 @@ input, select, textarea {
 			margin-bottom: 30px;
 		}
 
+		#banner .banner-logo {
+			display: block;
+			margin: auto;
+			max-width: 300px !important;
+			opacity: 80%;
+			padding-bottom: 50px;
+		}
+
 		#banner header p {
 			color: #ffffff;
 			background-color: #6382a0;
