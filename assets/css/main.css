@@ -3145,7 +3145,7 @@ input, select, textarea {
 			color: #ffffff;
 			background-color: #6382a0;
 			opacity: .85;
-			border-radius: 8px;
+			border-radius: 2px;
 			padding: 8px;
 			width: fit-content;
 			margin-top: 30px;
@@ -3164,7 +3164,7 @@ input, select, textarea {
 			color: #ffffff;
 			background-color: #6382a0;
 			opacity: .85;
-			border-radius: 8px;
+			border-radius: 2px;
 			padding: 5px;
 			margin: 50px auto;
 		}
@@ -3174,7 +3174,7 @@ input, select, textarea {
 		#banner input[type="button"],
 		#banner .button {
 			border-color: #ffffff;
-			border-radius: 8px !important;
+			border-radius: 2px !important;
 			color: #ffffff !important;
 			background-color: #6382a0;
 		}
